@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+codemixai.log
+.pytest_cache/
+.coverage
+htmlcov/
+codemixai_*.csv
+codemixai_*.json

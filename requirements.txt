@@ -1,0 +1,9 @@
+streamlit>=1.38,<2
+pandas>=2.2,<4
+matplotlib>=3.8,<4
+langchain-core>=0.3,<2
+langchain-google-genai>=2,<5
+pydantic>=2,<3
+python-dotenv>=1,<2
+scikit-learn>=1.5,<2
+pyngrok>=7.2,<8
